@@ -6,5 +6,6 @@ void afficherBienvenue()
 int main()
 {
 afficherBienvenue();
+//je suis un développeur
 return 0;
 }
